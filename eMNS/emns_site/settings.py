@@ -81,8 +81,8 @@ DATABASES = {
 	'default': {
 		'ENGINE': 'django.db.backends.mysql',
 		'NAME': 'emnsdb',
-		'USER': 'emns',
-		'PASSWORD': '19031292',
+		'USER': '*****',
+		'PASSWORD': '*********',
 		'HOST':'localhost',
 		'PORT':'3306',
 	}
